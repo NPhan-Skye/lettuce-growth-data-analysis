@@ -1,7 +1,7 @@
 # 🥬 Lettuce Growth Days Analysis – Python Portfolio Project
 > A hands-on Python project analyzing environmental factors affecting lettuce growth, using real-world agricultural data.
 
-This repository demonstrates practical Python data analysis using a real-world dataset: the **Lettuce Growth Days** dataset sourced from [Kaggle](https://www.kaggle.com/). Originally designed for spreadsheet-based tasks as part of the Google Data Analytics Certificate, this project replicates and extends those objectives using Python. It includes a complete data pipeline—from cleaning and transformation to statistical analysis and visualization.
+This repository demonstrates practical Python data analysis using a real-world dataset: the **Lettuce Growth Days** dataset sourced from [Kaggle](https://www.kaggle.com/#). Originally designed for spreadsheet-based tasks as part of the Google Data Analytics Certificate, this project replicates and extends those objectives using Python. It includes a complete data pipeline—from cleaning and transformation to statistical analysis and visualization.
 
 ---
 
