@@ -8,7 +8,7 @@ This repository demonstrates practical Python data analysis using a real-world d
 ## Dataset Overview
 
 - **Name**: Lettuce Growth Days  
-- **Source**: [Kaggle - Lettuce Growth Days](https://www.kaggle.com/)  
+- **Source**: [Kaggle - Lettuce Growth Days](https://www.kaggle.com/datasets/jurijsruko/lettuce)  
 - **Timeframe**: August 3, 2023 – September 19, 2023  
 - **Key Columns**: `Plant_ID`, `Date`, `Temperature (°C)`, `Humidity (%)`, `pH Level`, `TDS Value (ppm)`, `Growth Days`.
 
